@@ -12,7 +12,7 @@ st.write("Welcome! Click any project below to open it in a new tab.")
 projects = [
     {
         "name": "Postal Code Lookup Tool",
-        "desc": Postal Code Lookup Tool",
+        "desc": "Postal Code Lookup Tool",
         "url": "https://postallooker-qnpcrwdwsaunhlvu3symrm.streamlit.app/"
     },
     {
