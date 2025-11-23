@@ -23,7 +23,7 @@ projects = [
     {
         "name": "📦 18 Wheels Utility Toolkit",
         "desc": "18 Wheels Utility Toolkit.",
-        "url": https://airport-bomuudpwln3j4ujavvy8zx.streamlit.app/"
+        "url": "https://airport-bomuudpwln3j4ujavvy8zx.streamlit.app/"
     },
 ]
 
